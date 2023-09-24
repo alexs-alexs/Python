@@ -1,2 +1,2 @@
 # Python
-Ejemplos realizado en clases
+Ejemplos realizados en el curso dictado de python
